@@ -1,0 +1,5 @@
+import os
+
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+CONTACT_USERNAME = "@B_Sakal"
+CONTACT_PHONE = "+85512345678"
