@@ -3,7 +3,7 @@ version: "3"
 services:
   telegram-bot:
     build: .
-    container_name: telegram-bot
+    container_name: telegram-bot-shop-button
     restart: always
     environment:
       - BOT_TOKEN=YOUR_BOT_TOKEN
